@@ -1,3 +1,8 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Pliki",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notatki",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
 }
